@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\bin\Debug\DiscriminantCheck.dll
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\bin\Debug\DiscriminantCheck.pdb
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\obj\Debug\DiscriminantCheck.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\obj\Debug\DiscriminantCheck.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\obj\Debug\DiscriminantCheck.dll
+C:\Users\anton\source\repos\DiscriminantCheck\DiscriminantCheck\obj\Debug\DiscriminantCheck.pdb

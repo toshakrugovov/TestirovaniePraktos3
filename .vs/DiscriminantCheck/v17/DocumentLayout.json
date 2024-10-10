@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\source\\repos\\DiscriminantCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFE99C8-8023-418B-9177-1ADFE73901EE}|DiscriminantCheck.Tests\\DiscriminantCheck.Tests.csproj|c:\\users\\anton\\source\\repos\\discriminantcheck\\discriminantcheck.tests\\discchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFE99C8-8023-418B-9177-1ADFE73901EE}|DiscriminantCheck.Tests\\DiscriminantCheck.Tests.csproj|solutionrelative:discriminantcheck.tests\\discchecktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97520794-021C-4AE5-B09F-EE6BA137E03B}|DiscriminantCheck\\DiscriminantCheck.csproj|c:\\users\\anton\\source\\repos\\discriminantcheck\\discriminantcheck\\discriminant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97520794-021C-4AE5-B09F-EE6BA137E03B}|DiscriminantCheck\\DiscriminantCheck.csproj|solutionrelative:discriminantcheck\\discriminant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscCheckTests.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\DiscriminantCheck\\DiscriminantCheck.Tests\\DiscCheckTests.cs",
+              "RelativeDocumentMoniker": "DiscriminantCheck.Tests\\DiscCheckTests.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\DiscriminantCheck\\DiscriminantCheck.Tests\\DiscCheckTests.cs",
+              "RelativeToolTip": "DiscriminantCheck.Tests\\DiscCheckTests.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAD8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:41:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discriminant.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\source\\repos\\DiscriminantCheck\\DiscriminantCheck\\Discriminant.cs",
+              "RelativeDocumentMoniker": "DiscriminantCheck\\Discriminant.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\DiscriminantCheck\\DiscriminantCheck\\Discriminant.cs",
+              "RelativeToolTip": "DiscriminantCheck\\Discriminant.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:39:45.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
